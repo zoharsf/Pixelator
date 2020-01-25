@@ -1,6 +1,8 @@
 # Pixelator
 Pixelates an image with a varying number of pixels
 
+![Gif](data/pixelator_small.gif?raw=true "Gif")
+
 ### Overview:
 * The program loads an image from the data directory and displays it alongside a pixelated rendering of the same image.
 * The loaded image should have a 1:1 aspect ratio (a square) in order to prevent the image from being distorted.
